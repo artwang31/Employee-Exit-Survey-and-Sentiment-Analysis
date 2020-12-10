@@ -10,5 +10,5 @@ Somme of the departments that used this report included:
 - Human Resources: this report helped them gauge employee sentimment about a variety of subjects including employee benefits, compensation, career advancement
 and relationships with managers. 
 - Employee recruitment teams: the analysis helped them direct their interview questions
-- Team Finance: the analyis helped them allocate funds to different segments of our commpany to address employee retention.
+- Team Finance: the analyis helped them allocate funds to different segments of our company to address employee retention.
 

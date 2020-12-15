@@ -1,5 +1,7 @@
 # Employee-Exit-Survey-Analysis
 
+** Personal and/or unique identifiers have been removed from all data **
+
 Goal and Purpose:
 
 Before this analysis my company did not have a centralized way to gather and visualize reasons why employees left the company. Therefore,

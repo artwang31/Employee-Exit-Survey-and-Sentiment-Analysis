@@ -1,6 +1,6 @@
 # Employee-Exit-Survey-Analysis
 
-** Personal and/or unique identifiers have been removed from all data **
+** PERSONAL AND/OR UNIQUE IDENTIFIERS HAVE BEEN REMOVED FROM ALL SAMPLE DATA ** 
 
 Goal and Purpose:
 

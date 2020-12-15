@@ -37,7 +37,7 @@ SELECT DISTINCT A.EmployeeKey,
 		B.WinNT_ID as ADUserName,
 		--- Use Employee ID to add an exceptions school ---
 		--- User below as template - paste in new line below green line below ---
-		--- WHEN b.EmployeeID = '101747' THEN 'AF Amistad HS' ---
+		--- WHEN b.EmployeeID = '101747' THEN 'Company C' ---
 		CASE
                     WHEN B.EmployeeID = 'VV5KV1Q1E' THEN 'Company A'
                     --- Paste new exceptions here ---

@@ -8,10 +8,10 @@ SELECT DISTINCT A.EmployeeKey,
     CROSS JOIN [HRISStaged].[dbo].[EmployeeCorpGroup_Pivoted] C
     LEFT JOIN [HRISStaged].[dbo].[EmployeeStatus] D ON A.EmployeeKey = D.EmployeeKey
     WHERE D.StatusName = 'Active' AND
-          (A.JobTitle = 'Associate Regional Superintendent' OR
+          (A.JobTitle = 'Associate Regional Super' OR
 	  A.JobTitle = 'Executive' OR
-          A.JobTitle = 'Regional Superintendent' OR
-          A.JobTitle = 'Regional Director' OR
+          A.JobTitle = 'Regional Super' OR
+          A.JobTitle = 'Regional Dir' OR
 	  A.EmployeeKey = '105893' OR
 	  A.EmployeeKey = 'EBMFH2N9Q'  OR
 	  A.EmployeeKey = '105895'  OR
@@ -30,7 +30,7 @@ SELECT A.EmployeeKey,
     WHERE D.StatusName = 'Active' AND
           (A.JobTitle LIKE '%Principal%' OR
           A.JobTitle LIKE '%Dean%' OR
-          A.JobTitle = 'Director of School Operations')
+          A.JobTitle = 'Director of School')
 UNION
 SELECT DISTINCT A.EmployeeKey,
 		A.JobTitle,

@@ -36,13 +36,17 @@ Final Report:
 
 The final report had many visualizations, three of which are shareable because they include no unique identifers and respects the data privacy and integrity of all people and parties involved! As you can see, there are many filters and granular level cuts of data that can be explored in the final Tableau reports. Any stakeholder, client, or user can filter the data however they wanted, along business unit, demographiic filters, experience filters, first generation college status, and even the question type. 
 
-The first visualization is a macro-level view that displayed the various reasons why people left the company, in an open-ended response manner.
+The first visualization is a macro-level view that displayed the various reasons why people left the company, in a quantitative manner.
 
-![Visualization 1](Visualization-1.gif)
+![Visualization 1](Visualization-2.gif)
 
-The second visualization is a macro-level view that displayed the various reasons why people left the company, in a quantitative manner.
 
-![Visualization 2](Visualization-2.gif)
+
+The second visualization is a macro-level view that displayed the various reasons why people left the company, in an open-ended response manner.
+
+![Visualization 2](Visualization-1.gif)
+
+
 
 The third visualization displays the employee's satisfaction with the company's benefits and career advancement/professional development opportunities.
 

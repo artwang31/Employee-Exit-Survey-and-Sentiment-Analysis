@@ -36,11 +36,17 @@ Final Report:
 
 The final report had many visualizations, two of which are shareable because they include no unique identifers and respects the data privacy and integrity of all people and parties involved.
 
-The first visualization is a macro-level view that displayed the various reasons why people left the company, in a quantitative manner.
+The first visualization is a macro-level view that displayed the various reasons why people left the company, in an open-ended response manner.
 
-![Visualization 1](XXXXX.gif)
+![Visualization 1](Visualization-1.gif)
 
-The second visualization displays the leaving employee's satisfaction with the company's benefits and career advancement/professional development opportunities.
+The second visualization is a macro-level view that displayed the various reasons why people left the company, in a quantitative manner.
 
-![Visualization 2](XXXXX.gif)
+![Visualization 2](Visualization-2.gif)
+
+The third visualization displays the employee's satisfaction with the company's benefits and career advancement/professional development opportunities.
+
+![Visualization 3](Visualization-3.gif)
+
+
 

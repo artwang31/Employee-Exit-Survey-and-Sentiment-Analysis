@@ -32,7 +32,7 @@ the company. Some subjects included:
 
 Once I effectively gathered the data in Qualtrics, I then cleaned the data and pivoted the data in ways that would best be visualized in Tableau.
 
-Final Report:
+**Final Report:**
 
 The final report had many visualizations, three of which are shareable because they include no unique identifers and respects the data privacy and integrity of all people and parties involved! As you can see, there are many filters and granular level cuts of data that can be explored in the final Tableau reports. Any stakeholder, client, or user can filter the data however they wanted, along business unit, demographiic filters, experience filters, first generation college status, and even the question type. 
 

@@ -37,19 +37,19 @@ The final report had many visualizations, three of which are shareable because t
 
 **The first visualization is a macro-level view that displayed the various reasons why people left the company, in a quantitative manner.**
 
-![Visualization 1](Visualization-2.gif)
+![Visualization 1](Exit-1.gif)
 
 
 
 **The second visualization is a macro-level view that displayed the various reasons why people left the company, in an open-ended response manner.**
 
-![Visualization 2](Visualization-1.gif)
+![Visualization 2](Exit-2.gif)
 
 
 
 **The third visualization displays the employee's satisfaction with the company's benefits and career advancement/professional development opportunities.**
 
-![Visualization 3](Visualization-3.gif)
+![Visualization 3](Exit-3.gif)
 
 
 

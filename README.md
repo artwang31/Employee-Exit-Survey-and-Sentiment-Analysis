@@ -28,7 +28,6 @@ the company. Some subjects included:
    - Their impressions about their manager and colleagues?
    - Whether company benefits (health, vision, dependency) were adequate.
    - Whether they'd ever work with the company again and why?
-   - Etc.
 
 Once I effectively gathered the data in Qualtrics, I then cleaned the data and pivoted the data in ways that would best be visualized in Tableau.
 

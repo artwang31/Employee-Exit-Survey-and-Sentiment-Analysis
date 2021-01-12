@@ -37,7 +37,7 @@ Once I effectively gathered the data in Qualtrics, I then cleaned the data and p
 
 **Final Report:**
 
-The final report had many visualizations, three of which are shareable because they include no unique identifers and respects the data privacy and integrity of all people and parties involved! As you can see, there are many filters and granular level cuts of data that can be explored in the final Tableau reports. Any stakeholder, client, or user can filter the data however they wanted, along business unit, demographiic filters, experience filters, first generation college status, and even the question type. 
+The final report had many visualizations, three of which were shareable because they included no unique identifers and respected the data privacy and integrity of all people and parties involved! As you can see, there were many filters and granular level cuts of data that can be explored in the final Tableau reports. Any stakeholder, client, or user could filter the data however they wanted, along business unit, demographiic filters, experience filters, first generation college status, and even the question type. 
 
 **The first visualization is a macro-level view that displayed the various reasons why people left the company, in a quantitative manner.**
 

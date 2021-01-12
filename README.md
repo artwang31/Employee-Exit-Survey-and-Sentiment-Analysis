@@ -24,12 +24,14 @@ Some of the departments that used this report included:
 
 I wanted this analysis to be as comprehensive as possible as this would be the last time we as a company could ever gather data and information about the employee.
 Therefore, I created an extensive Exit Survey in Qualtrics to mine this data. The survey questions asked the leaving employee about all aspects of their time with
-the company. Some subjects included:
+the company. Some topics included:
+
    - Why they are leaving?
    - What they thought of the company?
    - Their impressions about their manager and colleagues?
    - Whether company benefits (health, vision, dependency) were adequate.
    - Whether they'd ever work with the company again and why?
+   - Whether they'd recommend this company to their friends?
 
 Once I effectively gathered the data in Qualtrics, I then cleaned the data and pivoted the data in ways that would best be visualized in Tableau.
 

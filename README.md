@@ -10,7 +10,7 @@ issues that led to employee resignation and terminations.
 
 **Context:** 
 
-This report, visualized in Tableau, ultimately helped my company identify and then rectify the issues that led to employee resignations. It also provided a sentiment analysis of how employees felt when they left.
+This report I created in Tableau ultimately helped my company identify and then rectify the issues that led to employee resignations. It also provided a sentiment analysis of how employees felt when they left.
 
 Some of the departments that used this report included:
     - Human Resources: this report helped them gauge employee sentiment about a variety of subjects including employee benefits, compensation, career advancement

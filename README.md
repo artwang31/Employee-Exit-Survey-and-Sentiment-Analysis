@@ -26,7 +26,7 @@ Therefore, I created an extensive Exit Survey in Qualtrics to mine this data. Th
 the company. Some topics included:
 
    - Why are employees leaving?
-   - What they thought of the company?
+   - What do they think about their company and the organization?
    - Their impressions about their manager and colleagues?
    - Whether company benefits (health, vision, dependency) were adequate.
    - Whether they'd ever work with the company again and why?

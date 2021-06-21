@@ -27,7 +27,7 @@ the company. Some topics included:
 
    - Why are employees leaving?
    - What do they think about their company and the organization?
-   - Their impressions about their manager and colleagues?
+   - What are their impressions about their manager and colleagues?
    - Whether company benefits (health, vision, dependency) were adequate.
    - Whether they'd ever work with the company again and why?
    - Whether they'd recommend this company to their friends?

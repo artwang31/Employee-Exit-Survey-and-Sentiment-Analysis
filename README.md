@@ -6,7 +6,7 @@
 
 Before this analysis we did not have a centralized way to gather and visualize reasons why employees left the company. Therefore,
 I had to create this Tableau report and analysis to visualize these reasons as it is helpful and beneficial for a company to understand the various 
-issues that led to employee resignation and terminations. 
+issues that led to employee resignation and terminations.
 
 **Context:** 
 

@@ -8,7 +8,7 @@ Before this analysis we did not have a centralized way to gather and visualize r
 I had to create this Tableau report and analysis to visualize these reasons as it is helpful and beneficial for a company to understand the various 
 issues that led to employee resignation and terminations.
 
-**Context:** 
+**Context:**
 
 I created this report with Tableau and ultimately helped my company identify and then rectify the issues that led to employee resignations. It also provided a sentiment analysis of how employees felt when they left.
 
